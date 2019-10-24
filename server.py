@@ -21,3 +21,4 @@ while True:
     """
     print(f'Connection from {address} has been established')
     clientsocket.send(bytes("Welcome", "utf-8"))  # sending information to the client socket
+    clientsocket.close()
