@@ -3,6 +3,7 @@
     <words>
       <w>clientsocket</w>
       <w>gethostname</w>
+      <w>headersize</w>
       <w>inet</w>
     </words>
   </dictionary>
